@@ -46,8 +46,8 @@ Rails.application.configure do
     :port => 25,
     :domain => "sendgrid.com",
     :authentication => :plain,
-    :user_name => "hetalkhunti",
-    :password => "hetal@12345"
+    :user_name => "",
+    :password => ""
   }
 
   # Raises error for missing translations
